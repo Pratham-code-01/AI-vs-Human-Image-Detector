@@ -1,4 +1,4 @@
-# AI vs Human Image Detector - Backend & GUI
+# AI vs Human Image Detector
 
 This project is a deep learning-based image classifier that predicts whether an uploaded image is **AI-generated or Human-made** using a trained Convolutional Neural Network (CNN) model. It provides a **Graphical User Interface (GUI) using Tkinter** for easy image upload and classification.
 
